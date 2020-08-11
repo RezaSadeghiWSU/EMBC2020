@@ -1,6 +1,6 @@
 Appendices and supplementary data of paper:
 
-Sadeghi, R., Banerjee, T., & Hughes, J. #Predicting Sleep Quality in Osteoporosis Patients Using Electronic Health Records and Heart Rate Variability.
+# Sadeghi, R., Banerjee, T., & Hughes, J. Predicting Sleep Quality in Osteoporosis Patients Using Electronic Health Records and Heart Rate Variability.
 
 URL: 
 https://embs.papercept.net/proceedings/EMBC20/0585.pdf
